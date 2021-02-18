@@ -4,7 +4,7 @@ Bir Eczane otomasyon sisteminde
   Kayıt 
   Güncelleme 
   Silme 
-  Stok Kayıtları: Stok ekleme - sile 
+  Stok Kayıtları: Stok ekleme - silme 
   Çalışanlar için: 
   Kayıt 
   Silme 
